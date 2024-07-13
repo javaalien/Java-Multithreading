@@ -9,7 +9,7 @@ class SetterThread implements Runnable { // OR extends Thread
 
 	@Override
 	public void run() {
-		System.out.println("Echo: " + message); // Echo: Hello New Thread!
+		System.out.println("Echo: " + message); // Echo: Hello New Setter Thread!
 	}
 }
 
