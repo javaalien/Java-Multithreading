@@ -33,7 +33,7 @@ public class SerializationWithInheritance {
 
 		try {
 
-			Employee emp1 = new Employee(211, "Alien", "Engineering", 50000);
+			Employee emp1 = new Employee(211, "Alien", "Google", 50000);
 
 			FileOutputStream fout = new FileOutputStream("employee.txt");
 			ObjectOutputStream out = new ObjectOutputStream(fout);
