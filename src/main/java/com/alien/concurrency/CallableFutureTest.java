@@ -1,4 +1,4 @@
-package com.alien;
+package com.alien.concurrency;
 
 import java.util.Random;
 import java.util.concurrent.Callable;

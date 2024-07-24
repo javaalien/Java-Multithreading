@@ -1,4 +1,4 @@
-package com.alien;
+package com.alien.concurrency;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

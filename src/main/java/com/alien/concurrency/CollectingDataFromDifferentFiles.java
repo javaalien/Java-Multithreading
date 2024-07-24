@@ -1,4 +1,4 @@
-package com.alien;
+package com.alien.concurrency;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CountDownLatch;
